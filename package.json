@@ -1,14 +1,14 @@
 {
   "name": "winterdreambot",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Winthorp Darkrites",
+  "license": "GNU GENERAL PUBLIC LICENSE, see LICENSE",
+  "description": "Both for WinterDream Discord Server",
   "dependencies": {
     "discord.js": "^14.14.1",
     "dotenv": "^16.4.7"
